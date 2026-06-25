@@ -7,16 +7,22 @@ Ieu lain dokumen nomer 10 dina runtuyan `Maca Tina Buana`. Ieu paket mandiri din
 ## Eusi Folder
 
 ```text
+INDEX.md
+README.md
+
 docs/
 ├── 01-puseur-jeung-tingkat-sumber.md
-├── 02-data-inti-naskah-arsip.md
+├── 02a-sskk-motif.md
+├── 02b-carita-ratu-pakuan.md
+├── 02c-carita-parahyangan.md
+├── 02d-falak-budha-raffles-java-1.md
 ├── 03-kronologi-harti-lenyepan.md
 ├── 04-rekonstruksi-jeung-data-motif.md
-├── 05-catetan-pustaka-rancangan-bab.md
-└── 06-checklist-sumber-watesan.md
+├── 05-rancangan-bab.md
+└── 06-checklist-watesan.md
 
 data/
-└── 10-jenis-lukisan-sunda-kuna-padjadjaran-data.json
+└── claims-ringkes.json
 ```
 
 ## Kaputusan Folder
@@ -27,7 +33,7 @@ Lokasi bener:
 seni-buana/seni-lukis-sunda-kuno-padjadjaran/
 ```
 
-Lokasi salah anu geus dicabut:
+Lokasi salah anu geus dicabut tina runtuyan dokumen:
 
 ```text
 pancer-sanghyang-pangeling-buana/maca-tina-buana/docs/10-seni-lukis-sunda-kuno-padjadjaran.md
